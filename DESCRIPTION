@@ -1,0 +1,14 @@
+Package: Temperatures
+Type: Package
+Title: An example of package 
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Has functions, documentation and tests
+    It is not very pretty
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
+Suggests: 
+    testthat
