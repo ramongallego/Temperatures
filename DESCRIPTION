@@ -12,3 +12,5 @@ LazyData: true
 RoxygenNote: 7.1.0
 Suggests: 
     testthat
+URL: https://github.com/ramongallego/Temperatures
+BugReports: https://github.com/ramongallego/Temperatures/issues
